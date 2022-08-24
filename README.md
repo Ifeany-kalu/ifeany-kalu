@@ -13,7 +13,7 @@ I’m a software engineer with concentration in front-end Web, I am aslo an Open
 - 🌱 I’m currently working on my ideas and exploring distributed systems.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💬 Ask me about front-end development, CSS, JavaScript, reactjs, HTML5, and responsive design.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, front-end Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing efizzy49@gmail.com.
 - ⚡ Fun fact: I love watching cartoon, and reading how things work.
 
